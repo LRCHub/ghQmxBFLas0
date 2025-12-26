@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "エイリアンエイリアン",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-26T06:02:39.832967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン-Nhato Remix-",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/01_エイリアンエイリアン-Nhato_Remix-_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン-Nhato Remix-",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/02_エイリアンエイリアン-Nhato_Remix-_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/03_エイリアンエイリアン_ナユタン星人.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "SymaG",
+      "has_synced": false,
+      "path": "select/04_エイリアンエイリアン_SymaG.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/05_エイリアンエイリアン_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "NayutalieN (ナユタン星人)",
+      "has_synced": true,
+      "path": "select/06_エイリアンエイリアン_NayutalieN_(ナユタン星人).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン - Alien Alien",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/07_エイリアンエイリアン_-_Alien_Alien_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン (feat. 鳳えむ&草薙寧々&初音ミク)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/08_エイリアンエイリアン_(feat._鳳えむ&草薙寧々&初音ミク)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "ナユタン星人 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_エイリアンエイリアン_ナユタン星人_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/10_エイリアンエイリアン_ナユタン星人.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "Nayutanseijin feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/11_エイリアンエイリアン_Nayutanseijin_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/12_エイリアンエイリアン_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Alien Alien (エイリアンエイリアン)",
+      "artist": "NayutalieN (ナユタン星人)",
+      "has_synced": true,
+      "path": "select/13_Alien_Alien_(エイリアンエイリアン)_NayutalieN_(ナユタン星人).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "Meychan",
+      "has_synced": true,
+      "path": "select/14_エイリアンエイリアン_Meychan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "エイリアンエイリアン",
+      "artist": "ワンダーランズ×ショウタイム feat. 鳳えむ&草薙寧々&初音ミク",
+      "has_synced": true,
+      "path": "select/15_エイリアンエイリアン_ワンダーランズ×ショウタイム_feat._鳳えむ&草薙寧々&初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エイリアンエイリアン",
+      "artist": "ワンダーランズ×ショウタイム × 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_エイリアンエイリアン_ワンダーランズ×ショウタイム_×_初音ミク.txt"
+    }
+  ]
+}
